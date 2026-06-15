@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/SowaZ3/DotClassifier/blob/main/sample/test/18_0.3_498_486_471_481.JPEG?raw=true" alt="photo" width="30%">
+  <img src="https://github.com/SowaZ3/DotClassifier/blob/main/sample/test/18_0.3_498_486_471_481.JPEG?raw=true" alt="photo" width="50%">
 </p>
 
-<h1 style="text-align: center;">Dot Classifier</h1>
+<h1 align="center">Dot Classifier</h1>
 
 This repository contains two approaches for counting dots and assigning them to four size classes:
 
