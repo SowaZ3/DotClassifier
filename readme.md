@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SowaZ3/DotClassifier/blob/main/sample/test/18_0.3_498_486_471_481.JPEG?raw=true" alt="photo" width="50%">
+  <img src="./sample/test/18_0.3_498_486_471_481.JPEG?raw=true" alt="photo" width="50%">
 </p>
 
 <h1 align="center">Dot Classifier</h1>
