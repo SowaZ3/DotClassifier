@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sample/test/18_0.3_498_486_471_481.jpeg" alt="Real phone photo test sample" width="30%">
+  <img src="./sample/test/18_0.3_498_486_471_481.jpeg" alt="photo" width="30%">
 </p>
 
 <h1 style="text-align: center;">Dot Classifier</h1>
